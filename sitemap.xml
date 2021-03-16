@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>https://octosaurus.com/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://octosaurus.com/web-design.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://octosaurus.com/ecommerce.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://octosaurus.com/3d.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://octosaurus.com/case-study-vanitec.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://octosaurus.com/our-work.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>https://octosaurus.com/contact.html</loc>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
